@@ -4,3 +4,4 @@ Neglecting electromagnetic wave radiation and relativistic effects, we contempla
 \mathbf{E} = \mathsf{E}\cos(\omega t) \hat{\mathbf{x}}
 \mathbf{B} = \mathsf{B}\sin(\omega t)\hat{\mathbf{z}}
 and the charged particles was released at t=0, \mathbf{r} = (0,0) \mathbf{v} = (0,0);
+             trajectories of the charged particle will be fractals ,while when \lambda is zeros of besselj(1,x), trajectories will be periodic.
