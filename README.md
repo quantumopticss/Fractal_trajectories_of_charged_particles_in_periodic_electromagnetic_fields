@@ -1,0 +1,2 @@
+# Fractal_trajectories_of_charged_particles_in_periodic_electromagnetic_fields
+these codes help visual the fractal trajectories of a charged particles within a periodic electromagnetic field
