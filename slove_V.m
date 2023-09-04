@@ -1,4 +1,4 @@
-function slove_V()
+function slove_V() % in this section we will slove \mathbf{\dot{r}}(t) through analysis methods
 %% users set
 q =1;
 m= 1;
