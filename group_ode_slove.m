@@ -3,8 +3,8 @@ clc;
 clear;
 close all;
 
-tspan=[0,2*pi*11];  %%space of time;
-x0 = [0,0,0,0]; %initial condition [x,\dot{x},y,\dot{y}];
+tspan=[0,2*pi*11];  %%space of time [s];
+x0 = [0,0,0,0]; %initial condition [x,\dot{x},y,\dot{y}];  [m] [m/s]
 [t,x] = ode89('group_ode',tspan,x0);  %%%% if you want to know the relationship of x(t) or y(t) use [t,x]!!!!
 % we warn you that this ode function is stiff, maybe ode15s is a better choice
 % you can get analysis solution from rt.m and slove_V.m 
