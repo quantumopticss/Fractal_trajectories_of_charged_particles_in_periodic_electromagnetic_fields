@@ -1,4 +1,4 @@
-function group_ode_slove()
+function group_ode_slove() % in this section we will slove \mathbf{r}(t) and \mathbf{\dot{r}}(t) through ode methods
 clc;
 clear;
 close all;
