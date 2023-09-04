@@ -1,4 +1,4 @@
-function rt() % in this section we will slove \mathbf{r](t) through analysis methods
+function rt() % in this section we will slove \mathbf{r}(t) through analysis methods
 %% users set
 q = 1;
 m = 1;
