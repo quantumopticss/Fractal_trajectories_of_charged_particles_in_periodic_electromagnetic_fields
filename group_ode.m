@@ -1,4 +1,4 @@
-function fun = group_ode(t,x)
+function fun = group_ode(t,x) % ode function set
 
 %clist = [1,1,1,1,2.40482555769577];
 E = 1;%clist(1,1);
